@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN<br>👯 I’m looking to collaborate on AIML and Django<br>🤝 I’m looking for help with LLMs and GenAI<br>🌱 I’m currently learning Frontend Development<br>💬 Ask me about DSA
+👯 I’m looking to collaborate on AIML and Django<br>🤝 I’m looking for help with LLMs and GenAI<br>💬 Ask me about DSA
 
 ## 🌐 Socials:
 <p>
